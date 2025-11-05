@@ -24,10 +24,6 @@ else{
 }
 
 console.log (power(6,-2));
-console.log (power (6,4));
-
-
- 
-
+console.log (power (6,4)); 
 
 
