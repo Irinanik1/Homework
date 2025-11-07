@@ -10,14 +10,15 @@
     count2++;    
     }
 }
-let percent = (count1 / count2)*100;
-
+let percent1 = (count1 / count)*100;
+let percent2 = (count2 / count)*100;
 
 return {
     generatedCount: count,
     even: count1,
     odd: count2,
-    percentEvenToOdd: percent
+    evenPercent: percent1,
+    oldPercent: percent2,
 };
 }
  console.log(TheoryImitation(1000));
