@@ -1,0 +1,7 @@
+name,lastName,email,password,repeatPassword,expectedStatus
+Mari,Ivanova,Gnjw6r101@gmail.com,Kjzffl59g11,Kjzffl59g11,201
+Mari,Ivanova,Ghszmw559@gmail.com,Kjjh9hll78,Kjjh2llkkk8,400
+Mari,Ivanova,Ghszmw770@gmail.com,678,678,400
+Mari,Ivanova,Ghszmw712@gmail.com,,,400
+Mari,Ivanova,Ghszmw23@gmail.com,sssss123,sssss123,400
+Mari,Ivanova,778@gmail,Cggggh678,Cggggh678,400
