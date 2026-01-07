@@ -1,6 +1,6 @@
 name,lastName,email,password,repeatPassword,expectedStatus
-Mari,Ivanova,Ghszmw5591@gmail.com,Kjjh9hll78,Kjjh2llkkk8,400
-Mari,Ivanova,Ghszmw776@gmail.com,678,678,400
-Mari,Ivanova,Ghszmw7182@gmail.com,,,400
-Mari,Ivanova,Ghszmw283@gmail.com,sssss123,sssss123,400
+Mari,Ivanova,test_{{$randomInt}}@gmail.com,Kjjh9hll78,Kjjh2llkkk8,400
+Mari,Ivanova,test_{{$randomInt}}@gmail.com,678,678,400
+Mari,Ivanova,test_{{$randomInt}}@gmail.com,,,400
+Mari,Ivanova,test_{{$randomInt}}@gmail.com,sssss123,sssss123,400
 Mari,Ivanova,7718@gmail,Cggggh678,Cggggh678,400

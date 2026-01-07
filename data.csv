@@ -1,3 +1,3 @@
 name,lastName,email,password,repeatPassword,expectedStatus
-Mari,Ivanova,Gnjw6r104@gmail.com,Kjzffl77g12,Kjzffl77g12,201
-Mari,Ivanova,Ghszmw5592@gmail.com,Kjjh9hll78,Kjjh9hll78,201
+Mari,Ivanova,test_{{$randomInt}}@gmail.com,Kjzffl77g12,Kjzffl77g12,201
+Mari,Ivanova,test_{{$randomInt}}@gmail.com,Kjjh9hll78,Kjjh9hll78,201
