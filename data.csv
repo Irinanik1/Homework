@@ -1,3 +1,0 @@
-name,lastName,email,password,repeatPassword,expectedStatus
-Mari,Ivanova,test_{{$randomInt}}@gmail.com,Kjzffl77g12,Kjzffl77g12,201
-Mari,Ivanova,test_{{$randomInt}}@gmail.com,Kjjh9hll78,Kjjh9hll78,201
